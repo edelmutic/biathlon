@@ -1,0 +1,352 @@
+[
+  {
+    "final_place": 1,
+    "name": "Bjornalden",
+    "country": "Norway",
+    "speed_of_shooting": 20,
+    "shooting_stats": 98
+  },
+  {
+    "final_place": 2,
+    "name": "Fourcade",
+    "country": "France",
+    "speed_of_shooting": 32,
+    "shooting_stats": 93
+  },
+  {
+    "final_place": 3,
+    "name": "Shupylin",
+    "country": "Russia",
+    "speed_of_shooting": 34,
+    "shooting_stats": 71
+  },
+  {
+    "final_place": 4,
+    "name": "Boe",
+    "country": "Norway",
+    "speed_of_shooting": 38,
+    "shooting_stats": 84
+  },
+  {
+    "final_place": 5,
+    "name": "Pidruchnyi",
+    "country": "Ukraine",
+    "speed_of_shooting": 33,
+    "shooting_stats": 84
+  },
+  {
+    "final_place": 6,
+    "name": "Ustygov",
+    "country": "Russia",
+    "speed_of_shooting": 23,
+    "shooting_stats": 75
+  },
+  {
+    "final_place": 7,
+    "name": "Cherezov",
+    "country": "Russia",
+    "speed_of_shooting": 23,
+    "shooting_stats": 66
+  },
+  {
+    "final_place": 8,
+    "name": "Fisher",
+    "country": "Germany",
+    "speed_of_shooting": 33,
+    "shooting_stats": 75
+  },
+  {
+    "final_place": 9,
+    "name": "Johnson",
+    "country": "United States",
+    "speed_of_shooting": 21,
+    "shooting_stats": 60
+  },
+  {
+    "final_place": 10,
+    "name": "Gross",
+    "country": "Germany",
+    "speed_of_shooting": 30,
+    "shooting_stats": 94
+  },
+  {
+    "final_place": 11,
+    "name": "Tykhonov",
+    "country": "Russia",
+    "speed_of_shooting": 39,
+    "shooting_stats": 78
+  },
+  {
+    "final_place": 12,
+    "name": "Hasek",
+    "country": "Czech Republic",
+    "speed_of_shooting": 39,
+    "shooting_stats": 66
+  },
+  {
+    "final_place": 13,
+    "name": "Pourie",
+    "country": "France",
+    "speed_of_shooting": 31,
+    "shooting_stats": 64
+  },
+  {
+    "final_place": 14,
+    "name": "Smith",
+    "country": "United States",
+    "speed_of_shooting": 31,
+    "shooting_stats": 89
+  },
+  {
+    "final_place": 15,
+    "name": "Ivanov",
+    "country": "Russia",
+    "speed_of_shooting": 35,
+    "shooting_stats": 70
+  },
+  {
+    "final_place": 16,
+    "name": "Swenson",
+    "country": "Sweden",
+    "speed_of_shooting": 23,
+    "shooting_stats": 66
+  },
+  {
+    "final_place": 17,
+    "name": "Örjan",
+    "country": "France",
+    "speed_of_shooting": 33,
+    "shooting_stats": 83
+  },
+  {
+    "final_place": 18,
+    "name": "Personnalisée",
+    "country": "Sweden",
+    "speed_of_shooting": 40,
+    "shooting_stats": 70
+  },
+  {
+    "final_place": 19,
+    "name": "Néhémie",
+    "country": "Sweden",
+    "speed_of_shooting": 36,
+    "shooting_stats": 67
+  },
+  {
+    "final_place": 20,
+    "name": "Torbjörn",
+    "country": "France",
+    "speed_of_shooting": 25,
+    "shooting_stats": 75
+  },
+  {
+    "final_place": 21,
+    "name": "Martynov",
+    "country": "Russia",
+    "speed_of_shooting": 23,
+    "shooting_stats": 88
+  },
+  {
+    "final_place": 22,
+    "name": "Gaïa",
+    "country": "France",
+    "speed_of_shooting": 39,
+    "shooting_stats": 73
+  },
+  {
+    "final_place": 23,
+    "name": "Renée",
+    "country": "France",
+    "speed_of_shooting": 36,
+    "shooting_stats": 92
+  },
+  {
+    "final_place": 24,
+    "name": "Danièle",
+    "country": "Czech Republic",
+    "speed_of_shooting": 37,
+    "shooting_stats": 67
+  },
+  {
+    "final_place": 25,
+    "name": "Valérie",
+    "country": "United States",
+    "speed_of_shooting": 21,
+    "shooting_stats": 72
+  },
+  {
+    "final_place": 26,
+    "name": "Loïca",
+    "country": "United States",
+    "speed_of_shooting": 28,
+    "shooting_stats": 90
+  },
+  {
+    "final_place": 27,
+    "name": "Zhì",
+    "country": "Czech Republic",
+    "speed_of_shooting": 24,
+    "shooting_stats": 84
+  },
+  {
+    "final_place": 28,
+    "name": "Sélène",
+    "country": "Sweden",
+    "speed_of_shooting": 39,
+    "shooting_stats": 75
+  },
+  {
+    "final_place": 29,
+    "name": "Clémentine",
+    "country": "Czech Republic",
+    "speed_of_shooting": 31,
+    "shooting_stats": 69
+  },
+  {
+    "final_place": 30,
+    "name": "Maëlann",
+    "country": "Czech Republic",
+    "speed_of_shooting": 32,
+    "shooting_stats": 60
+  },
+  {
+    "final_place": 31,
+    "name": "Milonov",
+    "country": "Russia",
+    "speed_of_shooting": 37,
+    "shooting_stats": 85
+  },
+  {
+    "final_place": 32,
+    "name": "Marylène",
+    "country": "Sweden",
+    "speed_of_shooting": 25,
+    "shooting_stats": 91
+  },
+  {
+    "final_place": 33,
+    "name": "Zastavnyi",
+    "country": "Ukraine",
+    "speed_of_shooting": 28,
+    "shooting_stats": 87
+  },
+  {
+    "final_place": 34,
+    "name": "Sakov",
+    "country": "Russia",
+    "speed_of_shooting": 36,
+    "shooting_stats": 79
+  },
+  {
+    "final_place": 35,
+    "name": "Nuó",
+    "country": "United States",
+    "speed_of_shooting": 26,
+    "shooting_stats": 68
+  },
+  {
+    "final_place": 36,
+    "name": "Zamonstyrskiy",
+    "country": "Russia",
+    "speed_of_shooting": 30,
+    "shooting_stats": 89
+  },
+  {
+    "final_place": 37,
+    "name": "Aurélie",
+    "country": "Czech Republic",
+    "speed_of_shooting": 38,
+    "shooting_stats": 70
+  },
+  {
+    "final_place": 38,
+    "name": "Dorothée",
+    "country": "Finland",
+    "speed_of_shooting": 24,
+    "shooting_stats": 84
+  },
+  {
+    "final_place": 39,
+    "name": "Audréanne",
+    "country": "Sweden",
+    "speed_of_shooting": 29,
+    "shooting_stats": 72
+  },
+  {
+    "final_place": 40,
+    "name": "Nikonov",
+    "country": "Russia",
+    "speed_of_shooting": 36,
+    "shooting_stats": 90
+  },
+  {
+    "final_place": 41,
+    "name": "Esbjörn",
+    "country": "Norway",
+    "speed_of_shooting": 32,
+    "shooting_stats": 94
+  },
+  {
+    "final_place": 42,
+    "name": "Andréanne",
+    "country": "Austria",
+    "speed_of_shooting": 33,
+    "shooting_stats": 64
+  },
+  {
+    "final_place": 43,
+    "name": "Maïlys",
+    "country": "United States",
+    "speed_of_shooting": 36,
+    "shooting_stats": 83
+  },
+  {
+    "final_place": 44,
+    "name": "Håkan",
+    "country": "Sweden",
+    "speed_of_shooting": 38,
+    "shooting_stats": 73
+  },
+  {
+    "final_place": 45,
+    "name": "Lén",
+    "country": "Russia",
+    "speed_of_shooting": 39,
+    "shooting_stats": 60
+  },
+  {
+    "final_place": 46,
+    "name": "Mélys",
+    "country": "Finland",
+    "speed_of_shooting": 28,
+    "shooting_stats": 81
+  },
+  {
+    "final_place": 47,
+    "name": "Cécile",
+    "country": "Czech Republic",
+    "speed_of_shooting": 24,
+    "shooting_stats": 76
+  },
+  {
+    "final_place": 48,
+    "name": "Kévina",
+    "country": "Norway",
+    "speed_of_shooting": 40,
+    "shooting_stats": 77
+  },
+  {
+    "final_place": 49,
+    "name": "Hart",
+    "country": "United States",
+    "speed_of_shooting": 35,
+    "shooting_stats": 76
+  },
+  {
+    "final_place": 50,
+    "name": "Kostov",
+    "country": "Russia",
+    "speed_of_shooting": 35,
+    "shooting_stats": 90
+  }
+]
